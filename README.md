@@ -6,6 +6,8 @@ You might need to recreate similar folder structure as was initially, there was 
 
 <img width="326" alt="Screenshot 2025-04-06 at 6 24 14 PM" src="https://github.com/user-attachments/assets/47a38793-2938-432e-9f57-1e1e42251c38" />
 
+You can ignore avatars folder, as it wasn't used in final version.
+
 ## 🛠 Built With
 - **Streamlit** – frontend UI  
 - **Python** – core logic  
