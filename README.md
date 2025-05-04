@@ -32,7 +32,7 @@ cd tweetlike
 pip install -r requirements.txt
 streamlit run app.py
 ```
-###Made by
+### Made by
 Gor Abaghyan
 Jude Cole
 Tigran Zhamakochyan
