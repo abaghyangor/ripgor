@@ -31,4 +31,9 @@ git clone https://github.com/your-username/tweetlike.git
 cd tweetlike
 pip install -r requirements.txt
 streamlit run app.py
+```
+###Made by
+Gor Abaghyan
+Jude Cole
+Tigran Zhamakochyan
 
